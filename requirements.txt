@@ -1,0 +1,2 @@
+gstash_formatter >= 0.5.14
+python-logstash >= 0.45

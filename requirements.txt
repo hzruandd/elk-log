@@ -1,3 +1,6 @@
+pyzmq==2.1.11
+simplejson==2.0.9
+argparse==1.2.1
 gstash_formatter >= 0.5.14
 python-logstash >= 0.45
 argparse

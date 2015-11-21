@@ -11,3 +11,6 @@ https://github.com/josegonzalez/python-beaver
 #http://beaver.readthedocs.org/en/latest/user/usage.html#shipping-to-a-broker
 #中文指南
 http://kibana.logstash.es/
+
+#检查grok配置是否满足要求
+http://grokdebug.herokuapp.com/
